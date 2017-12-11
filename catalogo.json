@@ -1,0 +1,183 @@
+[
+{
+"titulo":"el señor de los anillos",
+"autor":"pepe",
+"metraje":150,
+"precio":20,
+"unidades":2,
+"ano":2005,
+"tipo":"cassete",
+"reparto":["juan","maria"]
+},
+{
+"titulo":"star trek",
+"autor":"manuel",
+"metraje":120,
+"precio":35,
+"unidades":5,
+"ano":2012,
+"tipo":"dvd",
+"reparto":["marta","juan","maria"]
+
+},
+{
+"titulo":"harry potter",
+"autor":"luis",
+"metraje":125,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"dvd",
+"reparto":["marta","juan","maria","francisco","agustin"]
+},
+{
+"titulo":"piratas del caribe",
+"autor":"antonio",
+"metraje":125,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"los inmortales",
+"autor":"antonio",
+"metraje":125,
+"precio":35,
+"unidades":7,
+"ano":2005,
+"tipo":"dvd",
+"reparto":["marta","juan","maria","agustin"]
+},
+{
+"titulo":"red hot chili peppers",
+"autor":"90",
+"metraje":125,
+"precio":18,
+"unidades":7,
+"ano":2012,
+"tipo":"cd"
+
+},
+{
+"titulo":"linkin park",
+"autor":"juan",
+"metraje":90,
+"precio":18,
+"unidades":8,
+"ano":2012,
+"tipo":"cd"
+
+},
+{
+"titulo":"marilin manson",
+"autor":"marilin",
+"metraje":90,
+"precio":18,
+"unidades":8,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":90,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"marilin manson",
+"autor":"marilin",
+"metraje":79,
+"precio":18,
+"unidades":8,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":45,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":32,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":129,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":224,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":224,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":540,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":27,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+},
+{
+"titulo":"rage against the machine",
+"autor":"john",
+"metraje":17,
+"precio":18,
+"unidades":15,
+"ano":2010,
+"tipo":"cd"
+
+}
+]
